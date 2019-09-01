@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMP108
+D Low Power Digital Temperature Sensor With Two-Wire Serial Interface in WCSP
+K temperature sensor i2c smbus
+F http://www.ti.com/jp/lit/ds/symlink/tmp108.pdf
+$ENDCMP
+#
+#End Doc Library
