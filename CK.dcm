@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTS840_G_SMT_LEADS
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+F https://www.ckswitches.com/media/1477/pts840.pdf
+$ENDCMP
+#
+#End Doc Library
