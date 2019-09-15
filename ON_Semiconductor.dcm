@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCP170AMX
+D LDO Regulator, 150 mA, Ultra‐Low IQ, CMOS
+K linear regulator ldo fixed positive
+F https://www.onsemi.com/pub/Collateral/NCP170-D.PDF
+$ENDCMP
+#
+#End Doc Library
