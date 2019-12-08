@@ -48,4 +48,16 @@ K battery charger lithium
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
 $ENDCMP
 #
+$CMP MCP7940N-xMNY
+D Battery-Backed I2C Real-Time Clock/Calendar with SRAM, TDFN-8
+K realtime clock RTC
+F http://ww1.microchip.com/downloads/en/devicedoc/20005010f.pdf
+$ENDCMP
+#
+$CMP MIC2841A
+D High Efficiency 4 Channel Linear WLED Driver with DAM and Ultra Fast PWM Control
+K led driver pwm
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic2841a.pdf
+$ENDCMP
+#
 #End Doc Library
