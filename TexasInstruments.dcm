@@ -6,4 +6,34 @@ K temperature sensor i2c smbus
 F http://www.ti.com/jp/lit/ds/symlink/tmp108.pdf
 $ENDCMP
 #
+$CMP TPS60240
+D 170uVrms Zero-Ripple Switched Capacitor Buck-Boost Converter for VCO Supply, VSSOP-8
+K switched capacitor buck-boost converter
+F http://www.ti.com/lit/ds/symlink/tps60240.pdf
+$ENDCMP
+#
+$CMP TPS60241
+D 170uVrms Zero-Ripple Switched Capacitor Buck-Boost Converter for VCO Supply, VSSOP-8
+K switched capacitor buck-boost converter
+F http://www.ti.com/lit/ds/symlink/tps60240.pdf
+$ENDCMP
+#
+$CMP TPS60242
+D 170uVrms Zero-Ripple Switched Capacitor Buck-Boost Converter for VCO Supply, VSSOP-8
+K switched capacitor buck-boost converter
+F http://www.ti.com/lit/ds/symlink/tps60240.pdf
+$ENDCMP
+#
+$CMP TPS60243
+D 170uVrms Zero-Ripple Switched Capacitor Buck-Boost Converter for VCO Supply, VSSOP-8
+K switched capacitor buck-boost converter
+F http://www.ti.com/lit/ds/symlink/tps60240.pdf
+$ENDCMP
+#
+$CMP TPS6024x
+D 170uVrms Zero-Ripple Switched Capacitor Buck-Boost Converter for VCO Supply, VSSOP-8
+K switched capacitor buck-boost converter
+F http://www.ti.com/lit/ds/symlink/tps60240.pdf
+$ENDCMP
+#
 #End Doc Library
