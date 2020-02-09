@@ -14,4 +14,5 @@
   (lib (name Semtech)(type Legacy)(uri ${KIPRJMOD}/library/Semtech.lib)(options "")(descr ""))
   (lib (name TDK)(type Legacy)(uri ${KIPRJMOD}/library/TDK.lib)(options "")(descr ""))
   (lib (name TexasInstruments)(type Legacy)(uri ${KIPRJMOD}/library/TexasInstruments.lib)(options "")(descr ""))
+  (lib (name VishaySemiconductor)(type Legacy)(uri ${KIPRJMOD}/library/VishaySemiconductor.lib)(options "")(descr ""))
 )
