@@ -11,6 +11,7 @@
   (lib (name NXP)(type Legacy)(uri ${KIPRJMOD}/library/NXP.lib)(options "")(descr ""))
   (lib (name Nexperia)(type Legacy)(uri ${KIPRJMOD}/library/Nexperia.lib)(options "")(descr ""))
   (lib (name ON_Semiconductor)(type Legacy)(uri ${KIPRJMOD}/library/ON_Semiconductor.lib)(options "")(descr ""))
+  (lib (name Raytac)(type Legacy)(uri ${KIPRJMOD}/library/Raytac.lib)(options "")(descr ""))
   (lib (name Semtech)(type Legacy)(uri ${KIPRJMOD}/library/Semtech.lib)(options "")(descr ""))
   (lib (name TDK)(type Legacy)(uri ${KIPRJMOD}/library/TDK.lib)(options "")(descr ""))
   (lib (name TexasInstruments)(type Legacy)(uri ${KIPRJMOD}/library/TexasInstruments.lib)(options "")(descr ""))

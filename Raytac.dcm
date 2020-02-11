@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MDBT42V
+D BT 4.2, 5.0 & 5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF52832 SoC solution
+K Bluetooth BLE Nordic nRF52 nRF52832
+F https://www.raytac.com/download/index.php?index_id=28
+$ENDCMP
+#
+$CMP MDBT42V-P
+D BT 4.2, 5.0 & 5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF52832 SoC solution
+K Bluetooth BLE Nordic nRF52 nRF52832
+F https://www.raytac.com/download/index.php?index_id=28
+$ENDCMP
+#
+#End Doc Library
