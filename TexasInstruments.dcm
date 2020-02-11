@@ -1,9 +1,63 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HDC2080
+D Low Power Humidity and Temperature Sensor
+K Temerature Humidity Sensor
+F http://www.ti.com/lit/ds/symlink/hdc2080.pdf
+$ENDCMP
+#
 $CMP TMP108
 D Low Power Digital Temperature Sensor With Two-Wire Serial Interface in WCSP
 K temperature sensor i2c smbus
 F http://www.ti.com/jp/lit/ds/symlink/tmp108.pdf
+$ENDCMP
+#
+$CMP TPS60200
+D Regulated 3.3 V, 100-mA Low-Ripple Charge Pump Low Power DC/DC Converters, VSSOP-8
+K switched capacitor buck-boost converter
+F http://www.ti.com/lit/ds/symlink/tps60200.pdf
+$ENDCMP
+#
+$CMP TPS60201
+D Regulated 3.3 V, 100-mA Low-Ripple Charge Pump Low Power DC/DC Converters, VSSOP-8
+K switched capacitor buck-boost converter
+F http://www.ti.com/lit/ds/symlink/tps60201.pdf
+$ENDCMP
+#
+$CMP TPS60202
+D Regulated 3.3 V, 50-mA Low-Ripple Charge Pump Low Power DC/DC Converters, VSSOP-8
+K switched capacitor buck-boost converter
+F http://www.ti.com/lit/ds/symlink/tps60202.pdf
+$ENDCMP
+#
+$CMP TPS60203
+D Regulated 3.3 V, 50-mA Low-Ripple Charge Pump Low Power DC/DC Converters, VSSOP-8
+K switched capacitor buck-boost converter
+F http://www.ti.com/lit/ds/symlink/tps60203.pdf
+$ENDCMP
+#
+$CMP TPS60204
+D Regulated 3.3 V, 100-mA Low-Ripple Charge Pump Low Power DC/DC Converters, VSSOP-8
+K switched capacitor buck-boost converter
+F http://www.ti.com/lit/ds/symlink/tps60204.pdf
+$ENDCMP
+#
+$CMP TPS60205
+D Regulated 3.3 V, 100-mA Low-Ripple Charge Pump Low Power DC/DC Converters, VSSOP-8
+K switched capacitor buck-boost converter
+F http://www.ti.com/lit/ds/symlink/tps60205.pdf
+$ENDCMP
+#
+$CMP TPS6020x_LB
+D Regulated 3.3 V, 100-mA Low-Ripple Charge Pump Low Power DC/DC Converters, VSSOP-8
+K switched capacitor buck-boost converter
+F http://www.ti.com/lit/ds/symlink/tps60200.pdf
+$ENDCMP
+#
+$CMP TPS6020x_PG
+D Regulated 3.3 V, 100-mA Low-Ripple Charge Pump Low Power DC/DC Converters, VSSOP-8
+K switched capacitor buck-boost converter
+F http://www.ti.com/lit/ds/symlink/tps60200.pdf
 $ENDCMP
 #
 $CMP TPS60240
