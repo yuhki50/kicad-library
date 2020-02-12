@@ -12,4 +12,10 @@ K I/O expander I2C HWQFN24
 F https://www.nxp.com/docs/en/data-sheet/PCAL6416A.pdf
 $ENDCMP
 #
+$CMP PCF8563BS
+D Real-time clock/calendar
+K rtc clock calendar
+F https://www.nxp.com/docs/en/data-sheet/PCF8563.pdf
+$ENDCMP
+#
 #End Doc Library
