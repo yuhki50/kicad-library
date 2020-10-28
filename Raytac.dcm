@@ -1,12 +1,78 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MDBT42Q
+D BT 4.2, 5.0 & 5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF528xx SoC solution
+K Bluetooth BLE Nordic nRF52 nRF528xx
+F https://www.raytac.com/download/index.php?index_id=27
+$ENDCMP
+#
+$CMP MDBT42Q-192K
+D BT 4.2, 5.0 & 5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF52810 SoC solution
+K Bluetooth BLE Nordic nRF52 nRF52810
+F https://www.raytac.com/download/index.php?index_id=27
+$ENDCMP
+#
+$CMP MDBT42Q-192KL
+D BT 4.2, 5.0 & 5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF52811 SoC solution
+K Bluetooth BLE Nordic nRF52 nRF52811
+F https://www.raytac.com/download/index.php?index_id=27
+$ENDCMP
+#
+$CMP MDBT42Q-512KV2
+D BT 4.2, 5.0 & 5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF52832 SoC solution
+K Bluetooth BLE Nordic nRF52 nRF52832
+F https://www.raytac.com/download/index.php?index_id=27
+$ENDCMP
+#
+$CMP MDBT42Q-P
+D BT 4.2, 5.0 & 5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF528xx SoC solution
+K Bluetooth BLE Nordic nRF52 nRF528xx
+F https://www.raytac.com/download/index.php?index_id=27
+$ENDCMP
+#
+$CMP MDBT42Q-P192K
+D BT 4.2, 5.0 & 5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF52810 SoC solution
+K Bluetooth BLE Nordic nRF52 nRF52810
+F https://www.raytac.com/download/index.php?index_id=27
+$ENDCMP
+#
+$CMP MDBT42Q-P192KL
+D BT 4.2, 5.0 & 5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF52811 SoC solution
+K Bluetooth BLE Nordic nRF52 nRF52811
+F https://www.raytac.com/download/index.php?index_id=27
+$ENDCMP
+#
+$CMP MDBT42Q-P512KV2
+D BT 4.2, 5.0 & 5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF52832 SoC solution
+K Bluetooth BLE Nordic nRF52 nRF52832
+F https://www.raytac.com/download/index.php?index_id=27
+$ENDCMP
+#
 $CMP MDBT42V
 D BT 4.2, 5.0 & 5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF52832 SoC solution
 K Bluetooth BLE Nordic nRF52 nRF52832
 F https://www.raytac.com/download/index.php?index_id=28
 $ENDCMP
 #
+$CMP MDBT42V-512KV2
+D BT 4.2, 5.0 & 5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF52832 SoC solution
+K Bluetooth BLE Nordic nRF52 nRF52832
+F https://www.raytac.com/download/index.php?index_id=28
+$ENDCMP
+#
 $CMP MDBT42V-P
+D BT 4.2, 5.0 & 5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF52832 SoC solution
+K Bluetooth BLE Nordic nRF52 nRF52832
+F https://www.raytac.com/download/index.php?index_id=28
+$ENDCMP
+#
+$CMP MDBT42V-P512KV2
+D BT 4.2, 5.0 & 5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF52832 SoC solution
+K Bluetooth BLE Nordic nRF52 nRF52832
+F https://www.raytac.com/download/index.php?index_id=28
+$ENDCMP
+#
+$CMP MDBT42V-P512KV2_copy
 D BT 4.2, 5.0 & 5.1 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF52832 SoC solution
 K Bluetooth BLE Nordic nRF52 nRF52832
 F https://www.raytac.com/download/index.php?index_id=28
