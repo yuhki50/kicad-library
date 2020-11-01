@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BH1792GLC
+D Optical Sensor for Heart Rate Monitor IC
+K Optical Heart Rate
+F https://d1d2qsbl8m0m72.cloudfront.net/en/products/databook/datasheet/ic/sensor/pulse_wave/bh1792glc-e.pdf
+$ENDCMP
+#
+#End Doc Library
