@@ -6,6 +6,12 @@ K I/O expander I2C HVQFN16
 F https://www.nxp.com/docs/en/data-sheet/PCA6408A.pdf
 $ENDCMP
 #
+$CMP PCA9306DP
+D Dual bidirectional I2C-bus and SMBus voltage-level translator
+K Dual bidirectional I2C-bus and SMBus voltage-level translator
+F https://d1d2qsbl8m0m72.cloudfront.net/en/products/databook/datasheet/ic/sensor/pulse_wave/bh1792glc-e.pdf
+$ENDCMP
+#
 $CMP PCAL6416AHF
 D Low-voltage translating 16-bit I2C-bus/SMBus I/O expander, HWQFN24with interrupt output, reset, and configuration registers HVQFN16
 K I/O expander I2C HWQFN24
