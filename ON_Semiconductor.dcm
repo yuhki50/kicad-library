@@ -6,4 +6,10 @@ K linear regulator ldo fixed positive
 F https://www.onsemi.com/pub/Collateral/NCP170-D.PDF
 $ENDCMP
 #
+$CMP PCA9306FMUTCG
+D Dual bidirectional I2C-bus and SMBus voltage-level translator
+K Dual bidirectional I2C-bus and SMBus voltage-level translator
+F https://www.onsemi.com/pub/Collateral/PCA9306-D.PDF
+$ENDCMP
+#
 #End Doc Library
