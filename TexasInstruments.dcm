@@ -1,5 +1,29 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BQ51050BRHLT
+D High-Efficiency Qi v1.2-Compliant Wireless Power Receiver and Battery Charger
+K Qi Receiver Battery Charger
+F https://www.tij.co.jp/jp/lit/ds/symlink/bq51050b.pdf
+$ENDCMP
+#
+$CMP BQ51051BRHLT
+D High-Efficiency Qi v1.2-Compliant Wireless Power Receiver and Battery Charger
+K Qi Receiver Battery Charger
+F https://www.tij.co.jp/jp/lit/ds/symlink/bq51050b.pdf
+$ENDCMP
+#
+$CMP BQ51052BRHLT
+D High-Efficiency Qi v1.2-Compliant Wireless Power Receiver and Battery Charger
+K Qi Receiver Battery Charger
+F https://www.tij.co.jp/jp/lit/ds/symlink/bq51050b.pdf
+$ENDCMP
+#
+$CMP BQ5105xBRHLT
+D High-Efficiency Qi v1.2-Compliant Wireless Power Receiver and Battery Charger
+K Qi Receiver Battery Charger
+F https://www.tij.co.jp/jp/lit/ds/symlink/bq51050b.pdf
+$ENDCMP
+#
 $CMP HDC2080
 D Low Power Humidity and Temperature Sensor
 K Temerature Humidity Sensor
