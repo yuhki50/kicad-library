@@ -18,4 +18,5 @@
   (lib (name TDK)(type Legacy)(uri ${KIPRJMOD}/library/TDK.lib)(options "")(descr ""))
   (lib (name TexasInstruments)(type Legacy)(uri ${KIPRJMOD}/library/TexasInstruments.lib)(options "")(descr ""))
   (lib (name VishaySemiconductor)(type Legacy)(uri ${KIPRJMOD}/library/VishaySemiconductor.lib)(options "")(descr ""))
+  (lib (name WorldSemi)(type Legacy)(uri ${KIPRJMOD}/library/WorldSemi.lib)(options "")(descr ""))
 )
