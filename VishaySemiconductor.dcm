@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SiA461DJ
+D P-Channel 20 V (D-S) MOSFET
+K transistor PMOS P-MOS P-MOSFET
+F https://www.vishay.com/docs/63838/sia461dj.pdf
+$ENDCMP
+#
 $CMP VEML7700
 D High Accuracy Ambient Light Sensor With I2C Interface
 K ambient light sensor i2c smbus
