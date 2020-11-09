@@ -48,6 +48,54 @@ K battery charger lithium
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
 $ENDCMP
 #
+$CMP MCP73833-4
+D Stand-Alone Linear Li-Ion / Li-Polymer Charge
+K battery charger lithium
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22005b.pdf
+$ENDCMP
+#
+$CMP MCP73833-6SI_MF
+D Stand-Alone Linear Li-Ion / Li-Polymer Charge
+K battery charger lithium
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22005b.pdf
+$ENDCMP
+#
+$CMP MCP73833-AMI_MF
+D Stand-Alone Linear Li-Ion / Li-Polymer Charge
+K battery charger lithium
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22005b.pdf
+$ENDCMP
+#
+$CMP MCP73833-BZI_MF
+D Stand-Alone Linear Li-Ion / Li-Polymer Charge
+K battery charger lithium
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22005b.pdf
+$ENDCMP
+#
+$CMP MCP73833-CNI_MF
+D Stand-Alone Linear Li-Ion / Li-Polymer Charge
+K battery charger lithium
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22005b.pdf
+$ENDCMP
+#
+$CMP MCP73833-FCI_MF
+D Stand-Alone Linear Li-Ion / Li-Polymer Charge
+K battery charger lithium
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22005b.pdf
+$ENDCMP
+#
+$CMP MCP73833-GPI_MF
+D Stand-Alone Linear Li-Ion / Li-Polymer Charge
+K battery charger lithium
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22005b.pdf
+$ENDCMP
+#
+$CMP MCP73833-NVI_MF
+D Stand-Alone Linear Li-Ion / Li-Polymer Charge
+K battery charger lithium
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22005b.pdf
+$ENDCMP
+#
 $CMP MCP7940N-xMNY
 D Battery-Backed I2C Real-Time Clock/Calendar with SRAM, TDFN-8
 K realtime clock RTC
@@ -58,6 +106,42 @@ $CMP MIC2841A
 D High Efficiency 4 Channel Linear WLED Driver with DAM and Ultra Fast PWM Control
 K led driver pwm
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic2841a.pdf
+$ENDCMP
+#
+$CMP MIC2876
+D 4.8A ISW, Synchronous Boost Regulator with Bi-Directional Load Disconnect
+K Synchronous Boost Regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005572A.pdf
+$ENDCMP
+#
+$CMP MIC2876-4.75YMT
+D 4.8A ISW, Synchronous Boost Regulator with Bi-Directional Load Disconnect
+K Synchronous Boost Regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005572A.pdf
+$ENDCMP
+#
+$CMP MIC2876-5.0YMT
+D 4.8A ISW, Synchronous Boost Regulator with Bi-Directional Load Disconnect
+K Synchronous Boost Regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005572A.pdf
+$ENDCMP
+#
+$CMP MIC2876-5.25YMT
+D 4.8A ISW, Synchronous Boost Regulator with Bi-Directional Load Disconnect
+K Synchronous Boost Regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005572A.pdf
+$ENDCMP
+#
+$CMP MIC2876-5.5YMT
+D 4.8A ISW, Synchronous Boost Regulator with Bi-Directional Load Disconnect
+K Synchronous Boost Regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005572A.pdf
+$ENDCMP
+#
+$CMP MIC2876-AYMT
+D 4.8A ISW, Synchronous Boost Regulator with Bi-Directional Load Disconnect
+K Synchronous Boost Regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005572A.pdf
 $ENDCMP
 #
 #End Doc Library
