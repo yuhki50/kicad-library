@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BQ24070
+D Single-Chip Li-Ion Charge and System Power-Path Management IC
+K Battery Charger
+F https://www.ti.com/lit/ds/symlink/bq24070.pdf
+$ENDCMP
+#
 $CMP BQ51050BRHLT
 D High-Efficiency Qi v1.2-Compliant Wireless Power Receiver and Battery Charger
 K Qi Receiver Battery Charger
