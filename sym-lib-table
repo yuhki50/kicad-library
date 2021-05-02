@@ -3,6 +3,7 @@
   (lib (name AnalogDevices)(type Legacy)(uri ${KIPRJMOD}/library/AnalogDevices.lib)(options "")(descr ""))
   (lib (name CK)(type Legacy)(uri ${KIPRJMOD}/library/CK.lib)(options "")(descr ""))
   (lib (name CypressSemiconductor)(type Legacy)(uri ${KIPRJMOD}/library/CypressSemiconductor.lib)(options "")(descr ""))
+  (lib (name Cyrola)(type Legacy)(uri ${KIPRJMOD}/library/Cyrola.lib)(options "")(descr ""))
   (lib (name EVERLIGHT)(type Legacy)(uri ${KIPRJMOD}/library/EVERLIGHT.lib)(options "")(descr ""))
   (lib (name Espressif)(type Legacy)(uri ${KIPRJMOD}/library/Espressif.lib)(options "")(descr ""))
   (lib (name FTDI)(type Legacy)(uri ${KIPRJMOD}/library/FTDI.lib)(options "")(descr ""))
