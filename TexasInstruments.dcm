@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADS1100
+D Self-Calibrating, 16-Bit analog to digital converter
+K adc i2c smbus
+F https://www.tij.co.jp/jp/lit/ds/symlink/ads1100.pdf?ts=1619894144154&ref_url=https%253A%252F%252Fwww.tij.co.jp%252Fproduct%252Fjp%252FADS1100
+$ENDCMP
+#
 $CMP BQ24070
 D Single-Chip Li-Ion Charge and System Power-Path Management IC
 K Battery Charger
