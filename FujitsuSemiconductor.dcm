@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MB85RS64TUPN-G-AMEWE1
+D SPI Serial FRAM, 64Kbit
+K SPI Serial FRAM
+F https://www.fujitsu.com/global/documents/products/devices/semiconductor/fram/lineup/MB85RS64TU-DS501-00052-2v0-E.pdf
+$ENDCMP
+#
+#End Doc Library
