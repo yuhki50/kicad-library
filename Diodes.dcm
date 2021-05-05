@@ -12,6 +12,12 @@ K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7380.pdf
 $ENDCMP
 #
+$CMP AP7380-18Y-13
+D Wide input voltage range, 150mA ULDO Regulator
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7380.pdf
+$ENDCMP
+#
 $CMP AP7380-30W5-7
 D Wide input voltage range, 150mA ULDO Regulator
 K linear regulator ldo fixed positive
@@ -19,6 +25,12 @@ F https://www.diodes.com/assets/Datasheets/AP7380.pdf
 $ENDCMP
 #
 $CMP AP7380-30WR-7
+D Wide input voltage range, 150mA ULDO Regulator
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7380.pdf
+$ENDCMP
+#
+$CMP AP7380-30Y-13
 D Wide input voltage range, 150mA ULDO Regulator
 K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7380.pdf
@@ -36,6 +48,12 @@ K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7380.pdf
 $ENDCMP
 #
+$CMP AP7380-33Y-13
+D Wide input voltage range, 150mA ULDO Regulator
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7380.pdf
+$ENDCMP
+#
 $CMP AP7380-36W5-7
 D Wide input voltage range, 150mA ULDO Regulator
 K linear regulator ldo fixed positive
@@ -43,6 +61,12 @@ F https://www.diodes.com/assets/Datasheets/AP7380.pdf
 $ENDCMP
 #
 $CMP AP7380-36WR-7
+D Wide input voltage range, 150mA ULDO Regulator
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7380.pdf
+$ENDCMP
+#
+$CMP AP7380-36Y-13
 D Wide input voltage range, 150mA ULDO Regulator
 K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7380.pdf
@@ -60,6 +84,12 @@ K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7380.pdf
 $ENDCMP
 #
+$CMP AP7380-41Y-13
+D Wide input voltage range, 150mA ULDO Regulator
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7380.pdf
+$ENDCMP
+#
 $CMP AP7380-44W5-7
 D Wide input voltage range, 150mA ULDO Regulator
 K linear regulator ldo fixed positive
@@ -67,6 +97,12 @@ F https://www.diodes.com/assets/Datasheets/AP7380.pdf
 $ENDCMP
 #
 $CMP AP7380-44WR-7
+D Wide input voltage range, 150mA ULDO Regulator
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7380.pdf
+$ENDCMP
+#
+$CMP AP7380-44Y-13
 D Wide input voltage range, 150mA ULDO Regulator
 K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7380.pdf
@@ -84,6 +120,12 @@ K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7380.pdf
 $ENDCMP
 #
+$CMP AP7380-50Y-13
+D Wide input voltage range, 150mA ULDO Regulator
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7380.pdf
+$ENDCMP
+#
 $CMP AP7380-W5
 D Wide input voltage range, 150mA ULDO Regulator
 K linear regulator ldo fixed positive
@@ -91,6 +133,12 @@ F https://www.diodes.com/assets/Datasheets/AP7380.pdf
 $ENDCMP
 #
 $CMP AP7380-WR
+D Wide input voltage range, 150mA ULDO Regulator
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7380.pdf
+$ENDCMP
+#
+$CMP AP7380-Y-13
 D Wide input voltage range, 150mA ULDO Regulator
 K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7380.pdf
