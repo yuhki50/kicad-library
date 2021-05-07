@@ -13,7 +13,8 @@ F https://d1d2qsbl8m0m72.cloudfront.net/en/products/databook/datasheet/ic/sensor
 $ENDCMP
 #
 $CMP PCAL6416AHF
-D Low-voltage translating 16-bit I2C-bus/SMBus I/O expander, HWQFN24with interrupt output, reset, and configuration registers HVQFN16
+D Low-voltage translating 16-bit I2C-bus/SMBus I/O expander, HWQFN24
+with interrupt output, reset, and configuration registers HVQFN16
 K I/O expander I2C HWQFN24
 F https://www.nxp.com/docs/en/data-sheet/PCAL6416A.pdf
 $ENDCMP
