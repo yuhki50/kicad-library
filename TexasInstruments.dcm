@@ -42,6 +42,12 @@ K Temerature Humidity Sensor
 F http://www.ti.com/lit/ds/symlink/hdc2080.pdf
 $ENDCMP
 #
+$CMP INA827
+D Wide Supply Range, Rail-to-Rail Output Instrumentation Amplifier With a Minimum Gain of 5
+K instrumentation opamp
+F https://www.ti.com/lit/ds/symlink/ina827.pdf
+$ENDCMP
+#
 $CMP LMR64010
 D Simple switcher 40Vout, 1A Step-Up Voltage Regulator in SOT-23
 K switching regulator positive
