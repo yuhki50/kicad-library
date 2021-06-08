@@ -156,6 +156,36 @@ K Synchronous Boost Regulator
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20005572A.pdf
 $ENDCMP
 #
+$CMP MIC5216
+D Wide input voltage range, 500mA ULDO Regulator
+K linear regulator ldo fixed positive
+F https://ww1.microchip.com/downloads/en/DeviceDoc/mic5216.pdf
+$ENDCMP
+#
+$CMP MIC5216-2.5YM5
+D Wide input voltage range, 500mA ULDO Regulator
+K linear regulator ldo fixed positive
+F https://ww1.microchip.com/downloads/en/DeviceDoc/mic5216.pdf
+$ENDCMP
+#
+$CMP MIC5216-3.3YM5
+D Wide input voltage range, 500mA ULDO Regulator
+K linear regulator ldo fixed positive
+F https://ww1.microchip.com/downloads/en/DeviceDoc/mic5216.pdf
+$ENDCMP
+#
+$CMP MIC5216-3.6YM5
+D Wide input voltage range, 500mA ULDO Regulator
+K linear regulator ldo fixed positive
+F https://ww1.microchip.com/downloads/en/DeviceDoc/mic5216.pdf
+$ENDCMP
+#
+$CMP MIC5216-5.0YM5
+D Wide input voltage range, 500mA ULDO Regulator
+K linear regulator ldo fixed positive
+F https://ww1.microchip.com/downloads/en/DeviceDoc/mic5216.pdf
+$ENDCMP
+#
 $CMP MIC94072YC6
 D High Side Power Switches 1.2A
 K load switch
