@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Si1865DDL
+D Load Switch with Level-Shift
+K load switch
+F https://www.vishay.com/docs/62888/si1865ddl.pdf
+$ENDCMP
+#
 $CMP SiA461DJ
 D P-Channel 20 V (D-S) MOSFET
 K transistor PMOS P-MOS P-MOSFET
