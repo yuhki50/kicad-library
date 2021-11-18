@@ -1,6 +1,7 @@
 (sym_lib_table
   (lib (name ABB)(type Legacy)(uri ${KIPRJMOD}/library/ABB.lib)(options "")(descr ""))
   (lib (name AnalogDevices)(type Legacy)(uri ${KIPRJMOD}/library/AnalogDevices.lib)(options "")(descr ""))
+  (lib (name Asahikasei)(type Legacy)(uri ${KIPRJMOD}/library/Asahikasei.lib)(options "")(descr ""))
   (lib (name CK)(type Legacy)(uri ${KIPRJMOD}/library/CK.lib)(options "")(descr ""))
   (lib (name CypressSemiconductor)(type Legacy)(uri ${KIPRJMOD}/library/CypressSemiconductor.lib)(options "")(descr ""))
   (lib (name Cyrola)(type Legacy)(uri ${KIPRJMOD}/library/Cyrola.lib)(options "")(descr ""))
