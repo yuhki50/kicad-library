@@ -54,6 +54,12 @@ K switching regulator positive
 F https://www.tij.co.jp/jp/lit/ds/symlink/lmr64010.pdf?ts=1619959718284&ref_url=https%253A%252F%252Fwww.tij.co.jp%252Fproduct%252Fjp%252FLMR64010
 $ENDCMP
 #
+$CMP TLC59283RGE
+D 16-Channel, Constant-Current LED Driver with Pre-Charge FET
+K led driver
+F https://www.ti.com/lit/ds/symlink/tlc59283.pdf
+$ENDCMP
+#
 $CMP TMP108
 D Low Power Digital Temperature Sensor With Two-Wire Serial Interface in WCSP
 K temperature sensor i2c smbus
