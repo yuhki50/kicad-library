@@ -1,5 +1,6 @@
 (sym_lib_table
   (lib (name ABB)(type Legacy)(uri ${KIPRJMOD}/library/ABB.lib)(options "")(descr ""))
+  (lib (name Adafruit)(type Legacy)(uri ${KIPRJMOD}/library/Adafruit.lib)(options "")(descr ""))
   (lib (name AnalogDevices)(type Legacy)(uri ${KIPRJMOD}/library/AnalogDevices.lib)(options "")(descr ""))
   (lib (name Asahikasei)(type Legacy)(uri ${KIPRJMOD}/library/Asahikasei.lib)(options "")(descr ""))
   (lib (name CK)(type Legacy)(uri ${KIPRJMOD}/library/CK.lib)(options "")(descr ""))
