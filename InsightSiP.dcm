@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ISP1807-LR
-D Bluetooth v5.0 Transceiver Module 2.4GHz contains nRF52840
-K Bluetooth BLE Nordic nRF52 nRF52840
-F https://www.insightsip.com/fichiers_insightsip/pdf/ble/ISP1807/isp_ble_DS1807.pdf
-$ENDCMP
-#
-#End Doc Library

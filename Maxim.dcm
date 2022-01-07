@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MAX30102
-D Optical Sensor for Heart Rate Monitor IC
-K Optical Heart Rate
-F https://datasheets.maximintegrated.com/en/ds/MAX30102.pdf
-$ENDCMP
-#
-#End Doc Library

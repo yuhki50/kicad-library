@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP BlackPill_STM32F411
-D STM32F411 development board
-K STMicrosemiconductor STM32 EVB
-F https://www.adafruit.com/product/4877
-$ENDCMP
-#
-#End Doc Library

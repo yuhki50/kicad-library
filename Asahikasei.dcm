@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP EQ-433L
-D Hybrid Linear Hall Effect IC
-K hall sensor ic
-F https://www.akm.com/content/dam/documents/products/magnetic-sensor/linear-hall-effect-ic/eq433l/eq433l-en-datasheet.pdf
-$ENDCMP
-#
-#End Doc Library

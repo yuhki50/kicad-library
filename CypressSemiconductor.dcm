@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP CY15B128J
-D I2C Serial FRAM, 16Kb, SOIC-8
-K I2C Serial FRAM
-F https://www.cypress.com/file/175746/download
-$ENDCMP
-#
-#End Doc Library

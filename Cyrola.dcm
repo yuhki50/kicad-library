@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP RHINO_WAN
-D Arduino compatible LoRaWAN board
-K LoRaWAN
-F https://www.cyrola.co.jp/product-9.html
-$ENDCMP
-#
-#End Doc Library

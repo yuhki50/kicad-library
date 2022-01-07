@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP SX8650IWLTRT
-D World's Lowest Power & Smallest Footprint 4-wire Resistive Touchscreen Controller with 15kV ESD
-K ic screen control
-F https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/44000000MDib/WA8SSD.SZicW5Oqo79BILJHWqLZBI8Rlps1KxH5yjpU
-$ENDCMP
-#
-#End Doc Library

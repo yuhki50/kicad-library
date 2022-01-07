@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 19-337C_RSBHGHC-A88_4T
-D RGB LED
-K LED RGB Diode
-F https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-337C_RSBHGHC-A88_4T_Rev2_1-25-19.pdf
-$ENDCMP
-#
-#End Doc Library
