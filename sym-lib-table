@@ -22,6 +22,7 @@
   (lib (name ON_Semiconductor)(type KiCad)(uri ${KIPRJMOD}/library/ON_Semiconductor.kicad_sym)(options "")(descr ""))
   (lib (name Raytac)(type KiCad)(uri ${KIPRJMOD}/library/Raytac.kicad_sym)(options "")(descr ""))
   (lib (name Rohm)(type KiCad)(uri ${KIPRJMOD}/library/Rohm.kicad_sym)(options "")(descr ""))
+  (lib (name STMicroelectronics)(type KiCad)(uri ${KIPRJMOD}/library/STMicroelectronics.kicad_sym)(options "")(descr ""))
   (lib (name Semtech)(type KiCad)(uri ${KIPRJMOD}/library/Semtech.kicad_sym)(options "")(descr ""))
   (lib (name SwitchScience)(type KiCad)(uri ${KIPRJMOD}/library/SwitchScience.kicad_sym)(options "")(descr ""))
   (lib (name TDK)(type KiCad)(uri ${KIPRJMOD}/library/TDK.kicad_sym)(options "")(descr ""))
