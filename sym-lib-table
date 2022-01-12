@@ -15,6 +15,7 @@
   (lib (name InsightSiP)(type KiCad)(uri ${KIPRJMOD}/library/InsightSiP.kicad_sym)(options "")(descr ""))
   (lib (name Laird)(type KiCad)(uri ${KIPRJMOD}/library/Laird.kicad_sym)(options "")(descr ""))
   (lib (name Laird_Simple)(type KiCad)(uri ${KIPRJMOD}/library/Laird_Simple.kicad_sym)(options "")(descr ""))
+  (lib (name LumissilMicrosystems)(type KiCad)(uri ${KIPRJMOD}/library/LumissilMicrosystems.kicad_sym)(options "")(descr ""))
   (lib (name Maxim)(type KiCad)(uri ${KIPRJMOD}/library/Maxim.kicad_sym)(options "")(descr ""))
   (lib (name Microchip)(type KiCad)(uri ${KIPRJMOD}/library/Microchip.kicad_sym)(options "")(descr ""))
   (lib (name NXP)(type KiCad)(uri ${KIPRJMOD}/library/NXP.kicad_sym)(options "")(descr ""))
