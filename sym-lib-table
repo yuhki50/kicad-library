@@ -12,6 +12,7 @@
   (lib (name FTDI)(type KiCad)(uri ${KIPRJMOD}/library/FTDI.kicad_sym)(options "")(descr ""))
   (lib (name FujitsuSemiconductor)(type KiCad)(uri ${KIPRJMOD}/library/FujitsuSemiconductor.kicad_sym)(options "")(descr ""))
   (lib (name GenericDevice)(type KiCad)(uri ${KIPRJMOD}/library/GenericDevice.kicad_sym)(options "")(descr ""))
+  (lib (name Harvatek)(type KiCad)(uri ${KIPRJMOD}/library/Harvatek.kicad_sym)(options "")(descr ""))
   (lib (name InsightSiP)(type KiCad)(uri ${KIPRJMOD}/library/InsightSiP.kicad_sym)(options "")(descr ""))
   (lib (name Laird)(type KiCad)(uri ${KIPRJMOD}/library/Laird.kicad_sym)(options "")(descr ""))
   (lib (name Laird_Simple)(type KiCad)(uri ${KIPRJMOD}/library/Laird_Simple.kicad_sym)(options "")(descr ""))
