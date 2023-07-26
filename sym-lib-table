@@ -29,6 +29,7 @@
   (lib (name SwitchScience)(type KiCad)(uri ${KIPRJMOD}/library/SwitchScience.kicad_sym)(options "")(descr ""))
   (lib (name TDK)(type KiCad)(uri ${KIPRJMOD}/library/TDK.kicad_sym)(options "")(descr ""))
   (lib (name TexasInstruments)(type KiCad)(uri ${KIPRJMOD}/library/TexasInstruments.kicad_sym)(options "")(descr ""))
+  (lib (name Tibbo)(type KiCad)(uri ${KIPRJMOD}/library/Tibbo.kicad_sym)(options "")(descr ""))
   (lib (name TorexSemiconductor)(type KiCad)(uri ${KIPRJMOD}/library/TorexSemiconductor.kicad_sym)(options "")(descr ""))
   (lib (name VishaySemiconductor)(type KiCad)(uri ${KIPRJMOD}/library/VishaySemiconductor.kicad_sym)(options "")(descr ""))
   (lib (name WorldSemi)(type KiCad)(uri ${KIPRJMOD}/library/WorldSemi.kicad_sym)(options "")(descr ""))
