@@ -23,6 +23,7 @@
   (lib (name Nexperia)(type KiCad)(uri ${KIPRJMOD}/library/Nexperia.kicad_sym)(options "")(descr ""))
   (lib (name ON_Semiconductor)(type KiCad)(uri ${KIPRJMOD}/library/ON_Semiconductor.kicad_sym)(options "")(descr ""))
   (lib (name PixArt)(type KiCad)(uri ${KIPRJMOD}/library/PixArt.kicad_sym)(options "")(descr ""))
+  (lib (name PowerEx)(type KiCad)(uri ${KIPRJMOD}/library/PowerEx.kicad_sym)(options "")(descr ""))
   (lib (name Raytac)(type KiCad)(uri ${KIPRJMOD}/library/Raytac.kicad_sym)(options "")(descr ""))
   (lib (name Rohm)(type KiCad)(uri ${KIPRJMOD}/library/Rohm.kicad_sym)(options "")(descr ""))
   (lib (name STMicroelectronics)(type KiCad)(uri ${KIPRJMOD}/library/STMicroelectronics.kicad_sym)(options "")(descr ""))
