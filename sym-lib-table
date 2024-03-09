@@ -1,6 +1,7 @@
 (sym_lib_table
   (lib (name ABB)(type KiCad)(uri ${KIPRJMOD}/library/ABB.kicad_sym)(options "")(descr ""))
   (lib (name Adafruit)(type KiCad)(uri ${KIPRJMOD}/library/Adafruit.kicad_sym)(options "")(descr ""))
+  (lib (name Allegro)(type KiCad)(uri ${KIPRJMOD}/library/Allegro.kicad_sym)(options "")(descr ""))
   (lib (name AnalogDevices)(type KiCad)(uri ${KIPRJMOD}/library/AnalogDevices.kicad_sym)(options "")(descr ""))
   (lib (name Asahikasei)(type KiCad)(uri ${KIPRJMOD}/library/Asahikasei.kicad_sym)(options "")(descr ""))
   (lib (name CK)(type KiCad)(uri ${KIPRJMOD}/library/CK.kicad_sym)(options "")(descr ""))
